@@ -1,0 +1,24 @@
+name: publish-site
+on: 
+  push:
+    branches:
+      - main
+jobs:
+  publish-site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install Mkdocs
+        run: pip install mkdocs
+      - name: Install Material Theme
+        run: pip install mkdocs-material
+      - name: Install markdown_extesions
+        run: pip install mdx_truly_sane_lists
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      - name: Get latest changes
+        run: git pull
+      - name: Deploy new site
+        run: mkdocs gh-deploy
