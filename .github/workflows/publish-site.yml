@@ -17,7 +17,7 @@ jobs:
       - name: Install markdown_extesions
         run: pip install mdx_truly_sane_lists
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Get latest changes
         run: git pull
       - name: Deploy new site
