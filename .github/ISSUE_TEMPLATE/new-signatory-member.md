@@ -19,4 +19,6 @@ New Signatory Member
 
 4. **Member Company**: *Employer name or personal if none*
 
+5. **Member Title**: *Your current job title if any*
+
 ## Attach any additional or supplemental files
