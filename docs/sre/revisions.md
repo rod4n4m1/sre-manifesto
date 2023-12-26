@@ -6,4 +6,4 @@
 
 * Moved the SRE Manifesto to its own web site and address
 
-## End of Doc
+## End

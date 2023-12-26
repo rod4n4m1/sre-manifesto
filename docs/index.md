@@ -22,4 +22,4 @@ Besides site reliability engineers, we recommend the following audience for this
 
 And all managerial roles that are interested in understanding what a SRE does.
 
-## End of Doc
+## End

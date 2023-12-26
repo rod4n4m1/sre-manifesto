@@ -1,1 +1,3 @@
-# sre-manifesto
+# The SRE Manifesto
+
+## End
