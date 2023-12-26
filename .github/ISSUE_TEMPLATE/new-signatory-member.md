@@ -1,7 +1,6 @@
 ---
-name: New outage avoidance comm
-about: Outage Avoidance Communication (OAC) are generated in order to share information
-  that may help prevent another support team from experiencing an outage situation
+name: New Signatory Member
+about: Add yourself as a supporter and signatory of The SRE Manifesto site.
 
 ---
 
