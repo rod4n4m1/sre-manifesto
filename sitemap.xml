@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.sre-manifesto.org/practices/template/</loc>
+         <lastmod>2023-12-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.sre-manifesto.org/sre/manifesto/</loc>
          <lastmod>2023-12-26</lastmod>
          <changefreq>daily</changefreq>
