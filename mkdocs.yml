@@ -5,8 +5,8 @@ nav:
   - About this project: about/site.md
   - About the author: about/author.md
 - SRE:
-  - The SRE Manifesto: sre/manifesto.md
-  - SRE Practices: sre/practices.md
+  - The Manifesto: sre/manifesto.md
+  - The Practices: sre/practices.md
   - Signatories and Supporters: sre/supporters.md
   - Manifesto Revisions: sre/revisions.md
 

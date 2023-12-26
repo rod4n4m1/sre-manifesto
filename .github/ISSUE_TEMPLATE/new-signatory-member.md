@@ -10,14 +10,14 @@ New Signatory Member
 
 ## Please fill out fields below
 
-1. **Member Name**: *Your name to be displayed*
+1. **Member name**: *Your name to be displayed*
 
 2. **Member GitHub userid**: **Your GitHub userid*
 
-3. **Member E-mail**: *Personal public e-mail*
+3. **Member e-mail**: *Personal public e-mail*
 
-4. **Member Company**: *Employer name or personal if none*
+4. **Member company**: *Employer name or personal if none*
 
-5. **Member Title**: *Your current job title if any*
+5. **Member job title**: *Your current job title if any*
 
 ## Attach any additional or supplemental files
