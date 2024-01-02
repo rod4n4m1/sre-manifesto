@@ -12,13 +12,9 @@
         <meta name="author" content="Rod Anami">
       
       
-        <link rel="canonical" href="https://www.sre-manifesto.org/sre/practices/">
+        <link rel="canonical" href="https://www.sre-manifesto.org/practices/obs100/">
       
       
-        <link rel="prev" href="../manifesto/">
-      
-      
-        <link rel="next" href="../supporters/">
       
       
       <link rel="icon" href="../../images/sre-knot.ico">
@@ -26,7 +22,7 @@
     
     
       
-        <title>The Practices - The SRE Manifesto</title>
+        <title>The SRE Manifesto - The SRE Manifesto</title>
       
     
     
@@ -113,7 +109,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              The Practices
+              The SRE Manifesto
             
           </span>
         </div>
@@ -254,13 +250,11 @@
         
   
   
-    
-  
   
     
     
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="../manifesto/" class="md-tabs__link">
+      <li class="md-tabs__item">
+        <a href="../../sre/manifesto/" class="md-tabs__link">
           
   
   SRE
@@ -436,8 +430,6 @@
       
   
   
-    
-  
   
   
     
@@ -448,12 +440,12 @@
       
       
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
@@ -467,7 +459,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             SRE
@@ -481,7 +473,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../manifesto/" class="md-nav__link">
+      <a href="../../sre/manifesto/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -499,30 +491,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    The Practices
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../sre/practices/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -531,68 +503,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#site-reliability-engineering-practices" class="md-nav__link">
-    <span class="md-ellipsis">
-      Site Reliability Engineering Practices
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Site Reliability Engineering Practices">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#table-of-contents" class="md-nav__link">
-    <span class="md-ellipsis">
-      Table of Contents
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#practice-areas" class="md-nav__link">
-    <span class="md-ellipsis">
-      Practice Areas
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#end" class="md-nav__link">
-    <span class="md-ellipsis">
-      End
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -605,7 +515,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../supporters/" class="md-nav__link">
+      <a href="../../sre/supporters/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -626,7 +536,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../revisions/" class="md-nav__link">
+      <a href="../../sre/revisions/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -663,67 +573,42 @@
 
 
 <h1 id="the-sre-manifesto">The SRE Manifesto</h1>
-<h2 id="site-reliability-engineering-practices">Site Reliability Engineering Practices</h2>
-<h3 id="table-of-contents">Table of Contents</h3>
+<h2 id="site-reliability-engineering-practice">Site Reliability Engineering Practice</h2>
+<h3 id="obseravability-golden-signals">Obseravability Golden Signals</h3>
 <table>
 <thead>
 <tr>
-<th style="text-align: center;"><strong>Practice Code</strong></th>
-<th style="text-align: left;"><strong>Practice Name</strong></th>
-<th style="text-align: left;"><strong>Proposed by</strong></th>
-<th style="text-align: left;"><strong>Link</strong></th>
+<th style="text-align: left;"><strong>Practice code</strong></th>
+<th style="text-align: left;"><strong>Practice area(s)</strong></th>
+<th style="text-align: left;"><strong>Practice name</strong></th>
+<th style="text-align: left;"><strong>Practice description</strong></th>
+<th style="text-align: left;"><strong>Practice applicability</strong></th>
+<th style="text-align: left;"><strong>Practice technology(ies)</strong></th>
+<th style="text-align: left;"><strong>Implementation steps</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;"><code>OBS100</code></td>
-<td style="text-align: left;">Observability Golden Signals</td>
-<td style="text-align: left;">Rod Anami</td>
-<td style="text-align: left;"><a href="../../practices/obs100/">Doc</a></td>
+<td style="text-align: left;">OBS100</td>
+<td style="text-align: left;">[x] Observability</td>
+<td style="text-align: left;">Obserability Golden Signals</td>
+<td style="text-align: left;">Use golden signals to detect end-user symptoms for systems and platforms</td>
+<td style="text-align: left;">Applicable to any system</td>
+<td style="text-align: left;">Application performance monitorin; synthetic user monitoring</td>
+<td style="text-align: left;">1. Define service level indicators (SLIs) for latency, error rate, traffic, and saturation for each critical end-user service; 2. Measure SLIs through the monitoring platform; 3. Establish the SLOs based on the process behaviour and business requirements.</td>
 </tr>
 <tr>
-<td style="text-align: center;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
 </tbody>
 </table>
-<h3 id="practice-areas">Practice Areas</h3>
-<table>
-<thead>
-<tr>
-<th style="text-align: left;"><strong>Area</strong></th>
-<th style="text-align: left;"><strong>Area Description</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;"><code>Automation</code></td>
-<td style="text-align: left;">Good practices around automating operational and engineering work</td>
-</tr>
-<tr>
-<td style="text-align: left;"><code>Data Science</code></td>
-<td style="text-align: left;">Practices around MELT data analysis and application of statiscal methods</td>
-</tr>
-<tr>
-<td style="text-align: left;"><code>DevOps</code></td>
-<td style="text-align: left;">Practices that intercalate with DevOps framework</td>
-</tr>
-<tr>
-<td style="text-align: left;"><code>Observability</code></td>
-<td style="text-align: left;">Good practices around improving monitoring and the systema inner states</td>
-</tr>
-<tr>
-<td style="text-align: left;"><code>Systems Thinking</code></td>
-<td style="text-align: left;">Good practices for a systemic approach to reliability</td>
-</tr>
-<tr>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
+<p>Source: <code>Google Book - Site Reliability Engineering</code></p>
 <h2 id="end">End</h2>
 
 
