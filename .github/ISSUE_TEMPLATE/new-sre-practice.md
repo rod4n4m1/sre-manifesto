@@ -26,6 +26,6 @@ New Site Reliability Engineering Practice
 
 8. **Benefits for SREs**: *Which benefits SREs will realiaze with this practice implementation?*
 
-9. **Source**: *Tell the source from where this practice comes. Book, article, site, empirical.*
+9. **Source**: *Tell the source from where this practice comes. Book, article, site, or empirical.*
 
 ## Attach any additional or supplemental files
