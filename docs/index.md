@@ -2,6 +2,8 @@
 
 ## Short version
 
+An open-source site reliability engineer manifesto of the SREs, by the SREs, for the SREs.
+
 * Link to [The SRE Manifesto](./sre/manifesto.md)
 * Link to [The SRE Practices](./sre/practices.md)
 

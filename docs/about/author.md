@@ -10,6 +10,6 @@ Any SRE is welcome to contribute to this site by requesting to add new site reli
 
 ## Signatories and Supporters
 
-We incentivize any site reliability engineering enthusiast to sign this manifesto and become a champion of it.
+We incentivize any site reliability engineering enthusiasts to sign this manifesto and become champions of it.
 
 ## End

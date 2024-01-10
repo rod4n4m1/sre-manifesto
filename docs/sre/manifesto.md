@@ -30,6 +30,6 @@ Signing,
 
 ## Revisions
 
-* Link to the [doc](revisions.md)
+* Link to the [doc](./revisions.md)
 
 ## End
