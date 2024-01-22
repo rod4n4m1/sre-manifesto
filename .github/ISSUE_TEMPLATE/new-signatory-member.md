@@ -14,7 +14,7 @@ New Signatory Member
 
 2. **Member GitHub userid**: **Your GitHub userid*
 
-3. **Member e-mail**: *Personal public e-mail*
+3. **Member e-mail**: *Personal e-mail if different from GitHub profile*
 
 4. **Member company**: *Employer name or personal if none*
 
