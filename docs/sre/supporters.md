@@ -11,6 +11,7 @@
 | `Brannen Taylor` | Network Manager | LendingTree | 2022-08-22 |
 | `Itohan Eregie` | Cloud Engineer | Cyberspace Network Limited | 2022-08-22 |
 | `Thomas King` | Site Reliability Engineer | Kyndryl | 2022-08-22 |
+| `Robert Baron` | Site Reliability Engineer | IBM | 2024-02-13 |
 | | | | |
 
 ## Disclaimer
