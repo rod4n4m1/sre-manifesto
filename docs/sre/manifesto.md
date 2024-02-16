@@ -26,7 +26,7 @@ Signing,
 
 [Signatories and supporters team](./supporters.md)
 
-`Disclaimer:` _The opinions expressed by the signatories and supporters on this material are their own, not necessarily those of companies listed here or their subsidiaries. The mention of the above companies is solely for the transparency and fairness purposes. Any SRE from any company is welcome to sign/support this manifesto._
+`Disclaimer:` _The opinions expressed by the signatories and supporters on this material are their own, not necessarily those of companies listed here or their subsidiaries. The mention of the above companies is solely for the transparency and fairness purposes. Any SRE from any company (or as a person) is welcome to sign/support this manifesto._
 
 ## Revisions
 
