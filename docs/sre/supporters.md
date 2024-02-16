@@ -14,7 +14,7 @@
 | `Robert Baron` | Site Reliability Engineer | IBM | 2024-02-13 |
 | `Danne Aguiar` | Site Reliability Engineer | Kyndryl | 2024-02-14 |
 | `Manoj Kuppam` | Site Reliability Engineering Lead |  Medline Industries |2024-02-16 |
-| `Ralph Bates` | FBCS, Distinguished Engineer | IBM | 2024-02-16 |
+| `Ralph Bateman` | SRE Distinguished Engineer | IBM | 2024-02-16 |
 | | | | |
 
 ## Disclaimer
