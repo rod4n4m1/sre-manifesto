@@ -15,6 +15,7 @@
 | `Danne Aguiar` | Site Reliability Engineer | Kyndryl | 2024-02-14 |
 | `Manoj Kuppam` | Site Reliability Engineering Lead |  Medline Industries |2024-02-16 |
 | `Ralph Bateman` | SRE Distinguished Engineer | IBM | 2024-02-16 |
+| `Stephen Townshend` | SRE | SquaredUp | 2024-02-16 |
 | | | | |
 
 ## Disclaimer
