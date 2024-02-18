@@ -2,7 +2,7 @@
 
 ## Signatories and Supporters
 
-| **Name** | **Title** | **Company** | **Date** |
+| **Name____________** | **Title** | **Company** | **Date** |
 |:---------|:----------|:------------|:---------|
 | `Jeremy Proffitt`| SRE Director | Ally | 2022-08-22 |
 | `Rod Anami` | Client Transformation SRE | Kyndryl | 2022-08-22 |
@@ -15,7 +15,7 @@
 | `Danne Aguiar` | Site Reliability Engineer | Kyndryl | 2024-02-14 |
 | `Manoj Kuppam` | Site Reliability Engineering Lead |  Medline Industries |2024-02-16 |
 | `Ralph Bateman` | SRE Distinguished Engineer | IBM | 2024-02-16 |
-| `Stephen Townshend` | SRE | SquaredUp | 2024-02-16 |
+| `Stephen Townshend` | Environments Manager, Slight Reliability Podcast Host | SquaredUp | 2024-02-18 |
 | | | | |
 
 ## Disclaimer
