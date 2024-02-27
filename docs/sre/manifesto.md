@@ -18,9 +18,11 @@ We believe we can create a more unified, concise, and solid SRE persona by stati
 
 * SREs employ `chaos engineering` to unveil systemic weaknesses in production.
 
+* SREs respond to meaningful `incidents`, implement complex `changes`, and conduct blameless `postmortems`.
+
 We welcome anyone to use this **manifesto** at will as we made it public. We will review this **manifesto** in the GitHub repository and update it yearly.
 
-`August 22, 2022`.
+`February 27, 2024`.
 
 Signing,
 
