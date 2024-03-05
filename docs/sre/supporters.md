@@ -16,6 +16,7 @@
 | `Manoj Kuppam` | Site Reliability Engineering Lead |  Medline Industries |2024-02-16 |
 | `Ralph Bateman` | SRE Distinguished Engineer | IBM | 2024-02-16 |
 | `Stephen Townshend` | Environments Manager, Slight Reliability Podcast Host | SquaredUp | 2024-02-18 |
+| `Eddier Ocampo` | SRE Consultant | Red Hat | 2024-03-05 |
 | | | | |
 
 ## Disclaimer
