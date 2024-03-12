@@ -7,7 +7,7 @@
 | **Practice Code** | **Practice Name** | **Proposed by** | **Link** |
 |:---------:|:--------------------------|:--------------------|:---------|
 | `OBS100` | Observability Golden Signals | Rod Anami | [Doc](../practices/obs100.md) |
-| | | |
+| | | | |
 
 ### Practice Areas
 
