@@ -6,6 +6,7 @@
 
 | **Practice Code** | **Practice Name** | **Proposed by** | **Link** |
 |:---------:|:--------------------------|:--------------------|:---------|
+| `AUTO100` | Reduce Operational Toil | Rod Anami | [Doc](../practices/auto100.md) |
 | `OBS100` | Observability Golden Signals | Rod Anami | [Doc](../practices/obs100.md) |
 | | | | |
 
