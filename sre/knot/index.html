@@ -12,9 +12,13 @@
         <meta name="author" content="The SRE Manifesto">
       
       
-        <link rel="canonical" href="https://www.sre-manifesto.org/practices/obs100/">
+        <link rel="canonical" href="https://www.sre-manifesto.org/sre/knot/">
       
       
+        <link rel="prev" href="../practices/">
+      
+      
+        <link rel="next" href="../supporters/">
       
       
       <link rel="icon" href="../../images/sre-knot.ico">
@@ -22,7 +26,7 @@
     
     
       
-        <title>The SRE Manifesto - The SRE Manifesto</title>
+        <title>The Knot - The SRE Manifesto</title>
       
     
     
@@ -74,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#the-sre-manifesto" class="md-skip">
+        <a href="#the-sre-knot" class="md-skip">
           Skip to content
         </a>
       
@@ -109,7 +113,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              The SRE Manifesto
+              The Knot
             
           </span>
         </div>
@@ -250,11 +254,13 @@
         
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../sre/manifesto/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../manifesto/" class="md-tabs__link">
           
   
   SRE
@@ -430,25 +436,30 @@
       
   
   
+    
   
   
+  
     
     
     
+      
+        
+        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -459,7 +470,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             SRE
@@ -473,7 +484,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../sre/manifesto/" class="md-nav__link">
+      <a href="../manifesto/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -494,7 +505,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../sre/practices/" class="md-nav__link">
+      <a href="../practices/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -512,10 +523,30 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../sre/knot/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    The Knot
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -524,6 +555,44 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-symbol-of-site-reliability-engineering" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Symbol of Site Reliability Engineering
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#end" class="md-nav__link">
+    <span class="md-ellipsis">
+      End
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -536,7 +605,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../sre/supporters/" class="md-nav__link">
+      <a href="../supporters/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -557,7 +626,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../sre/revisions/" class="md-nav__link">
+      <a href="../revisions/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -593,43 +662,14 @@
                   
 
 
-<h1 id="the-sre-manifesto">The SRE Manifesto</h1>
-<h2 id="site-reliability-engineering-practice">Site Reliability Engineering Practice</h2>
-<h3 id="observability-golden-signals">Observability Golden Signals</h3>
-<table>
-<thead>
-<tr>
-<th style="text-align: left;"><strong>Practice code</strong></th>
-<th style="text-align: left;"><strong>Practice area(s)</strong></th>
-<th style="text-align: left;"><strong>Practice name</strong></th>
-<th style="text-align: left;"><strong>Practice description</strong></th>
-<th style="text-align: left;"><strong>Practice applicability</strong></th>
-<th style="text-align: left;"><strong>Practice technology(ies)</strong></th>
-<th style="text-align: left;"><strong>Implementation steps</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;">OBS100</td>
-<td style="text-align: left;">[x] Observability</td>
-<td style="text-align: left;">Observability Golden Signals</td>
-<td style="text-align: left;">Use golden signals to detect end-user symptoms for systems and platforms</td>
-<td style="text-align: left;">Applicable to any system</td>
-<td style="text-align: left;">Application performance monitoring; synthetic user monitoring</td>
-<td style="text-align: left;">1. Define service level indicators (SLIs) for latency, error rate, traffic, and saturation for each critical end-user service; 2. Measure SLIs through the monitoring platform; 3. Establish the SLOs based on the process behaviour and business requirements.</td>
-</tr>
-<tr>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-</tr>
-</tbody>
-</table>
-<p>Source: <code>Google Book - Site Reliability Engineering</code></p>
+<h1 id="the-sre-knot">The SRE Knot</h1>
+<h2 id="the-symbol-of-site-reliability-engineering">The Symbol of Site Reliability Engineering</h2>
+<ul>
+<li>8 teardrops orbiting the same gravity center representing each statement in the SRE manifesto</li>
+<li>1 central square representing the overall reliability goal</li>
+<li>Multiple colors to represent the technology ecosystem variety</li>
+</ul>
+<p><img alt="SRE Knot" src="../../images/sre-knot.png" /></p>
 <h2 id="end">End</h2>
 
 
