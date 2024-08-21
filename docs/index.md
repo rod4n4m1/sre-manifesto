@@ -30,6 +30,6 @@ Besides site reliability engineers, we recommend the following audience for this
 * Software Engineers
 * Engineering managers
 
-And all managerial roles that are interested in understanding what a SRE does.
+And all managerial roles that are interested in understanding what an SRE does.
 
 ## End

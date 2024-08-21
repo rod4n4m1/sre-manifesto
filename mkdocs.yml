@@ -7,6 +7,7 @@ nav:
 - SRE:
   - The Manifesto: sre/manifesto.md
   - The Practices: sre/practices.md
+  - The Knot: sre/knot.md
   - Signatories and Supporters: sre/supporters.md
   - Manifesto Revisions: sre/revisions.md
 
@@ -62,7 +63,7 @@ markdown_extensions:
 # Project information
 site_name: The SRE Manifesto
 site_url: https://www.sre-manifesto.org
-site_author: Rod Anami
+site_author: The SRE Manifesto
 site_description: >-
   The SRE Manifesto is a collection of principles, values and practices that guide the work of SREs.
 
