@@ -25,7 +25,7 @@
 
 | Conference | Characteristics | Organizer | Link |
 |:-----------|:----------------|:----------|:----:|
-| **SREDay** | In-person, mutiple locations, and quarterly | Harness | [Site](https://sreday.com/) |
+| **SREday** | In-person, mutiple locations, and quarterly | Harness | [Site](https://sreday.com/) |
 | **SREcon** EMEA | In-person and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 | **SREcon** Americas | In-person and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 
@@ -42,6 +42,10 @@
 
 ### Learning
 
+| Training title | Description | Link |
+|:-----------|:------------|:----:|
+| Introduction to Site Reliability Engineering (SRE) | Gain a basic understanding of Site Reliability Engineering (SRE). | [Microsoft](https://learn.microsoft.com/en-us/training/modules/intro-to-site-reliability-engineering/) |
+
 ### Accreditation
 
 | Name | Type | Issuer | Level | Link |
@@ -49,6 +53,12 @@
 | IBM Certified Professional SRE - Cloud v2 | IBM Cloud focused | IBM | Professional | [Page](https://www.ibm.com/training/certification/ibm-certified-professional-sre-cloud-v2-C0007801#exam) |
 | Site Reliability Engineering (SRE) Foundation | Vendor agnostic | DevOps Institute | Aspiring | [Page](https://www.devopsinstitute.com/certifications/sre-foundation/) |
 | Site Reliability Engineering (SRE) Practitioner | Vendor agnostic | DevOps Institute | Associate | [Page](https://www.devopsinstitute.com/certifications/sre-practitioner/) |
+
+### Reports & Guides
+
+| Document title | Description | Link |
+|:-----------|:------------|:----:|
+| Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program | Providing training and education for Site Reliability Engineers is universally important to set them up for success in your organization. | [Google](https://sre.google/resources/practices-and-processes/training-site-reliability-engineers/) |
 
 ## Tools
 
