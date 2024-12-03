@@ -25,25 +25,26 @@
 
 | Conference | Characteristics | Organizer | Link |
 |:-----------|:----------------|:----------|:----:|
-| **SREday** | In-person, mutiple locations, and quarterly | Harness | [Site](https://sreday.com/) |
-| **SREcon** EMEA | In-person and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
-| **SREcon** Americas | In-person and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
+| **SREday** | In-person, mutiple cities, and quarterly | Harness | [Site](https://sreday.com/) |
+| **SREcon** EMEA | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
+| **SREcon** Americas | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 
 ### Technology themed
 
 | Conference | Characteristics | Organizer | Link |
 |:-----------|:----------------|:----------|:----:|
-| **KubeCon + CloudNativeCon** Europe | In-person and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
-| **KubeCon + CloudNativeCon** India | In-person and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
-| **KubeCon + CloudNativeCon** North America | In-person and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
-| **KubeCon + CloudNativeCon** Japan | In-person and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) |
+| **KubeCon + CloudNativeCon** Europe | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
+| **KubeCon + CloudNativeCon** India | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
+| **KubeCon + CloudNativeCon** North America | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
+| **KubeCon + CloudNativeCon** Japan | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) |
 
 ## Education
 
-### Learning
+### Learning (Free)
 
 | Training title | Description | Link |
 |:-----------|:------------|:----:|
+| DevOps Engineer, SRE Learning Path | This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the DevOps Engineer/SRE role | [Google](https://www.cloudskillsboost.google/paths/20) |
 | Introduction to Site Reliability Engineering (SRE) | Gain a basic understanding of Site Reliability Engineering (SRE). | [Microsoft](https://learn.microsoft.com/en-us/training/modules/intro-to-site-reliability-engineering/) |
 
 ### Accreditation
@@ -62,14 +63,46 @@
 
 ## Tools
 
-### Platform
+### Automation
 
+* [Ansible](https://www.ansible.com/) | Configuration
+* [Chef](https://www.chef.io/) | Configuration
+* [Helm](https://helm.sh/) | K8s configuration
+* [Puppet](https://www.puppet.com/) | Configuration
+* [Terraform](https://www.terraform.io/) | IaC
+
+### Container
+
+* [docker](https://www.docker.com/)
 * [Kubernetes](https://kubernetes.io)
+* [podman](https://podman.io/)
+
+### DevOps
+
+* [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+* [Jenkins](https://www.jenkins.io/)
+
+### Network
+
+* [cilium](https://cilium.io/)
+* [Envoy](https://www.envoyproxy.io/)
+* [Istio](https://istio.io/)
 
 ### Observability
 
 * [Grafana](https://grafana.com/oss/grafana/)
 * [OpenTelemetry](https://opentelemetry.io) - aka OTel
 * [Prometheus](https://prometheus.io)
+
+### Platform
+
+* [Backstage](https://backstage.io/)
+
+### Security
+
+* [falco](https://falco.org/)
+* [OPA](https://www.openpolicyagent.org/)
+* [trivy](https://trivy.dev/latest/)
+* [Vault](https://www.vaultproject.io/)
 
 ## End
