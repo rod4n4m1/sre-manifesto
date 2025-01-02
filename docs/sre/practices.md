@@ -10,7 +10,7 @@
 | `DSC100` | Time-series Data Analysis through Percentiles | Rod Anami | [Doc](../practices/dsc100.md) |
 | `DOE100` | Infrastructure Provisioning through Code | Rod Anami | [Doc](../practices/doe100.md) |
 | `OBS100` | Observability Golden Signals | Rod Anami | [Doc](../practices/obs100.md) |
-| `STH100` | Solution Full Stack Analysis | Rod Anami | [Doc](../practices/st100.md) |
+| `STH100` | Solution Full Stack Analysis for Reliability | Rod Anami | [Doc](../practices/sth100.md) |
 | | | | |
 
 ### Practice Areas
