@@ -1,5 +1,7 @@
 # The SRE Resources
 
+ALL SRE resources in a single page!
+
 ## Books
 
 ### Free
@@ -9,6 +11,7 @@
 | Build Secure & Reliable Systems | Best Practices for Designing, Implementing, and Maintaining Systems. | [Read online](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) |
 | Site Reliability Engineering | How Google Runs Production Systems. | [Read online](https://sre.google/sre-book/table-of-contents/) |
 | The Site Reliaiblity Workbook| Practical Ways to Implement SRE. | [Read online](https://sre.google/workbook/table-of-contents/) |
+| | | |
 
 ### Paid
 
@@ -18,6 +21,7 @@
 | Implementing Service Level Objectives| A Practical Guide to SLIs, SLOs, and Error Budgets. | [Amazon](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813/) |
 | Observability Engineering | Achieving Production Excellence. | [Amazon](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/) |
 | Seeking SRE | Conversations About Running Production Systems at Scale. | [Amazon](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864/) |
+| | | |
 
 ## Conferences
 
@@ -28,6 +32,7 @@
 | **SREday** | In-person, mutiple cities, and quarterly | Harness | [Site](https://sreday.com/) |
 | **SREcon** EMEA | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 | **SREcon** Americas | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
+| | | | |
 
 ### Technology themed
 
@@ -37,6 +42,7 @@
 | **KubeCon + CloudNativeCon** India | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
 | **KubeCon + CloudNativeCon** North America | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | **KubeCon + CloudNativeCon** Japan | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) |
+| | | | |
 
 ## Education
 
@@ -46,6 +52,7 @@
 |:-----------|:------------|:----:|
 | DevOps Engineer, SRE Learning Path | This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the DevOps Engineer/SRE role | [Google](https://www.cloudskillsboost.google/paths/20) |
 | Introduction to Site Reliability Engineering (SRE) | Gain a basic understanding of Site Reliability Engineering (SRE). | [Microsoft](https://learn.microsoft.com/en-us/training/modules/intro-to-site-reliability-engineering/) |
+| | | |
 
 ### Accreditation
 
@@ -54,12 +61,14 @@
 | IBM Certified Professional SRE - Cloud v2 | IBM Cloud focused | IBM | Professional | [Page](https://www.ibm.com/training/certification/ibm-certified-professional-sre-cloud-v2-C0007801#exam) |
 | Site Reliability Engineering (SRE) Foundation | Vendor agnostic | DevOps Institute | Aspiring | [Page](https://www.devopsinstitute.com/certifications/sre-foundation/) |
 | Site Reliability Engineering (SRE) Practitioner | Vendor agnostic | DevOps Institute | Associate | [Page](https://www.devopsinstitute.com/certifications/sre-practitioner/) |
+| | | |
 
 ### Reports & Guides
 
 | Document title | Description | Link |
 |:-----------|:------------|:----:|
 | Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program | Providing training and education for Site Reliability Engineers is universally important to set them up for success in your organization. | [Google](https://sre.google/resources/practices-and-processes/training-site-reliability-engineers/) |
+| | | |
 
 ## Tools
 
