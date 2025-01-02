@@ -12,13 +12,13 @@
         <meta name="author" content="The SRE Manifesto">
       
       
-        <link rel="canonical" href="https://www.sre-manifesto.org/practices/auto100/">
+        <link rel="canonical" href="https://www.sre-manifesto.org/practices/dsc100/">
       
       
       
       
       <link rel="icon" href="../../images/sre-knot.ico">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.47">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
     
     
       
@@ -616,7 +616,7 @@
 
 <h1 id="the-sre-manifesto">The SRE Manifesto</h1>
 <h2 id="site-reliability-engineering-practice">Site Reliability Engineering Practice</h2>
-<h3 id="reduce-operational-toil">Reduce Operational Toil</h3>
+<h3 id="time-series-data-analysis-through-percentiles">Time-series Data Analysis through Percentiles</h3>
 <table>
 <thead>
 <tr>
@@ -631,13 +631,13 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;">AUTO100</td>
-<td style="text-align: left;">[x] Automation</td>
-<td style="text-align: left;">Reduce Operational Toil</td>
-<td style="text-align: left;">Use automation to reduce operational toil</td>
-<td style="text-align: left;">Applicable to any system</td>
-<td style="text-align: left;">Automation platfors; automation engines</td>
-<td style="text-align: left;">1. Identify operational toil; 2. Measure operational toil impact; 3. Prioritize operational toil items; 4. Design, develop, and implement automation; 5. Ensure operational toil items has been eliminated or reduced.</td>
+<td style="text-align: left;">DSC100</td>
+<td style="text-align: left;">[x] Data Science; [x] Observability</td>
+<td style="text-align: left;"><strong>Time-series Data Analysis through Percentiles</strong></td>
+<td style="text-align: left;">Analyze time-series data, mainly monitoring metrics, by applying percentiles or quantiles to the dataset.</td>
+<td style="text-align: left;">Applicable to all industries and systems</td>
+<td style="text-align: left;">Time-series DB based monitoring systems like Prometheus</td>
+<td style="text-align: left;">1. Collect monitoring metric data points as a time-series dataset; 2. Analyze the series by applying percentile or quantile methods; 3. Calculate the relevant percentiles or quantiles (preferable based on an SLO) to uncover outliers; 4. Isolate outliers to see if they are errors or problems.</td>
 </tr>
 <tr>
 <td style="text-align: left;"></td>
@@ -650,7 +650,7 @@
 </tr>
 </tbody>
 </table>
-<p>Source: <code>Google Book - Site Reliability Engineering</code></p>
+<p>Source: <code>Google Book, Prometheus project</code></p>
 <h2 id="end">End</h2>
 
 
@@ -713,7 +713,7 @@
     <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.annotate", "content.tabs.link", "navigation.sections", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.integrate"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.83f73b43.min.js"></script>
+      <script src="../../assets/javascripts/bundle.88dd0f4e.min.js"></script>
       
     
   </body>
