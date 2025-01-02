@@ -2,7 +2,7 @@
 
 ## The Symbol of Site Reliability Engineering
 
-![SRE Knot](../images/sre-knot.png)
+![SRE Knot](../images/sre-knot-sm.png)
 
 * Eight (8) teardrops orbiting the same gravity center representing each statement in the SRE manifesto
 * One (1) central square representing the overall reliability goal
