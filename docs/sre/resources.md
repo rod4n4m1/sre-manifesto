@@ -61,7 +61,7 @@ ALL SRE resources in a single page!
 | IBM Certified Professional SRE - Cloud v2 | IBM Cloud focused | IBM | Professional | [Page](https://www.ibm.com/training/certification/ibm-certified-professional-sre-cloud-v2-C0007801#exam) |
 | Site Reliability Engineering (SRE) Foundation | Vendor agnostic | DevOps Institute | Aspiring | [Page](https://www.devopsinstitute.com/certifications/sre-foundation/) |
 | Site Reliability Engineering (SRE) Practitioner | Vendor agnostic | DevOps Institute | Associate | [Page](https://www.devopsinstitute.com/certifications/sre-practitioner/) |
-| | | |
+| | | | | |
 
 ### Reports & Guides
 
@@ -71,6 +71,8 @@ ALL SRE resources in a single page!
 | | | |
 
 ## Tools
+
+All OSS tools and technologies!
 
 ### Automation
 
