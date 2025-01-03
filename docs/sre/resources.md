@@ -72,21 +72,28 @@ ALL SRE resources in a single page!
 
 ## Tools
 
-All OSS tools and technologies!
+All OSS tools and technologies for SREs!
 
 ### Automation
 
-* [Ansible](https://www.ansible.com/) | Configuration
-* [Chef](https://www.chef.io/) | Configuration
-* [Helm](https://helm.sh/) | K8s configuration
-* [Puppet](https://www.puppet.com/) | Configuration
-* [Terraform](https://www.terraform.io/) | IaC
+| **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
+|:--------------|:---------|:----------------|:-------------|:--------:|
+| **Ansible** | Infrastructure configuration | | | [website](https://www.ansible.com/) |
+| **Chef** | Infrastructure configuration | | | [website](https://www.chef.io/) |
+| **Helm** | K8s configuration | | | [website](https://helm.sh/) |
+| **Puppet** | Infrastructure configuration | | | [website](https://www.puppet.com/) |
+| **Terraform** | Infrastructure provisioning, IaC | | | [website](https://www.terraform.io/)|
+| | | | | |
 
 ### Container
 
-* [docker](https://www.docker.com/)
-* [Kubernetes](https://kubernetes.io)
-* [podman](https://podman.io/)
+| **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
+|:--------------|:---------|:----------------|:-------------|:--------:|
+| **docker** | Container runtime and management | | | [website](https://www.docker.com/) |
+| **Kanivete** | K8s troubleshooting | | | [repo](https://github.com/kyndryl-open-source/kanivete) |
+| **Kubernetes** | Pod orchestration | | | [website](https://kubernetes.io) |
+| **podman** | Container runtime and management | | | [website](https://podman.io/) |
+| | | | | |
 
 ### DevOps
 
@@ -101,9 +108,12 @@ All OSS tools and technologies!
 
 ### Observability
 
-* [Grafana](https://grafana.com/oss/grafana/)
-* [OpenTelemetry](https://opentelemetry.io) - aka OTel
-* [Prometheus](https://prometheus.io)
+| **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
+|:--------------|:---------|:----------------|:-------------|:--------:|
+| **Grafana** | Monitoring and observability stack | Grafana, Grafana Loki, Grafana Mimir, and Grafana Tempo  | [x] AI; [x] APM; [x] metrics; [x] events; [x] logs;  [x] traces; [x] service levels; [x] visualization. | [website](https://grafana.com/oss/grafana/) |
+| **OpenTelemetry** | Monitoring platform | A.k.a. OTel | [-] AI; [x] APM; [x] metrics; [-] events; [-] logs;  [x] traces; [x] service levels; [x] visualization. | [website](https://opentelemetry.io/) |
+| **Prometheus** | Monitoring platform | | [-] AI; [x] APM; [x] metrics; [x] events; [-] logs;  [x] traces; [x] service levels; [x] visualization. | [website](https://prometheus.io/) |
+| | | | | |
 
 ### Platform
 
