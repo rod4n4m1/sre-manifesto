@@ -2,10 +2,11 @@
 
 ## Project
 
-The SRE Manifesto project is a timid project with two bold goals:
+The SRE Manifesto project is a timid endeavor with three bold goals:
 
-1. Publish and maintain an universal site reliability engineer (SRE) manifesto.
-2. Curate a collection of high-level site reliability engineering pratices.
+1. Publish and maintain a universal site reliability engineering manifesto.
+2. Curate a collection of high-level site reliability engineering practices.
+3. Hold a comprehensive list of site reliability engineering resources.
 
 ## License
 
