@@ -126,9 +126,9 @@ All OSS tools and technologies for SREs!
 
 | **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
 |:--------------|:---------|:----------------|:-------------|:--------:|
-| **Grafana** | Monitoring and observability stack | Grafana, Grafana Loki, Grafana Mimir, and Grafana Tempo  | [x] AI; [x] APM; [x] metrics; [x] events; [x] logs;  [x] traces; [x] service levels; [x] visualization. | [website](https://grafana.com/oss/grafana/) |
-| **OpenTelemetry** | Monitoring platform | A.k.a. OTel | [-] AI; [x] APM; [x] metrics; [-] events; [-] logs;  [x] traces; [x] service levels; [x] visualization. | [website](https://opentelemetry.io/) |
-| **Prometheus** | Monitoring platform | | [-] AI; [x] APM; [x] metrics; [x] events; [-] logs;  [x] traces; [x] service levels; [x] visualization. | [website](https://prometheus.io/) |
+| **Grafana** | Monitoring and observability stack | Grafana, Grafana Loki, Grafana Mimir, and Grafana Tempo  | [+] AI/ML; [+] APM; [+] metrics; [+] events; [+] logs;  [+] traces; [+] service levels; [+] visualization. | [website](https://grafana.com/oss/grafana/) |
+| **OpenTelemetry** | Monitoring platform | A.k.a. OTel | [-] AI/ML; [+] APM; [+] metrics; [-] events; [-] logs;  [+] traces; [+] service levels; [+] visualization. | [website](https://opentelemetry.io/) |
+| **Prometheus** | Monitoring platform | | [-] AI/ML; [+] APM; [+] metrics; [+] events; [-] logs;  [+] traces; [+] service levels; [+] visualization. | [website](https://prometheus.io/) |
 | | | | | |
 
 ### Platform
