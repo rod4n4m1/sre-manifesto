@@ -38,6 +38,7 @@ ALL SRE resources in a single page!
 
 | **Conference** | **Characteristics** | **Organizer** | **Link** |
 |:---------------|:--------------------|:--------------|:--------:|
+| **KubeCon + CloudNativeCon** China | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) |
 | **KubeCon + CloudNativeCon** Europe | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
 | **KubeCon + CloudNativeCon** India | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
 | **KubeCon + CloudNativeCon** North America | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
@@ -83,6 +84,7 @@ ALL SRE resources in a single page!
 
 | **Document Title** | **Description** | **Link** |
 |:-------------------|:----------------|:--------:|
+| The SRE Report 2025 | Now in its seventh year, Catchpoint's annual SRE Report is considered the trusted resource for catalyzing innovative business conversations and infusing IT practitioner experiences into professional research. | [Catchpoint](https://www.catchpoint.com/asset/2025-sre-report) |
 | Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program | Providing training and education for Site Reliability Engineers is universally important to set them up for success in your organization. | [Google](https://sre.google/resources/practices-and-processes/training-site-reliability-engineers/) |
 | | | |
 
@@ -138,6 +140,7 @@ All OSS tools and technologies for SREs!
 ### Security
 
 * [falco](https://falco.org/)
+* [kube-bench](https://github.com/aquasecurity/kube-bench/)
 * [OPA](https://www.openpolicyagent.org/)
 * [trivy](https://trivy.dev/latest/)
 * [Vault](https://www.vaultproject.io/)
