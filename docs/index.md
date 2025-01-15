@@ -2,7 +2,7 @@
 
 ## Short version
 
-An open-source site reliability engineering manifesto of the SREs, by the SREs, for the SREs.
+An open-source <font color="red">Site Reliability Engineering</font> **Manifesto** of the <font color="purple">Site Reliability Engineers</font> (SREs), by the SREs, for the SREs. Here, you will find an SRE's primary responsibilities in a manifesto form. The most common SRE practices are defined. And all possible resources to start, continue, and develop your site reliability engineering journey.
 
 * Jump to [The SRE Manifesto](./sre/manifesto.md)
 * Jump to [The SRE Practices](./sre/practices.md)
