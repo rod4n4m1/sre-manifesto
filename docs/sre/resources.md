@@ -80,7 +80,6 @@ ALL SRE resources in a single page!
 | Site Reliability Engineering (SRE) Practitioner | Vendor agnostic | DevOps Institute | Associate | [Page](https://www.devopsinstitute.com/certifications/sre-practitioner/) |
 | Site Reliability Engineering (SRE) Foundation Certification (CSREF) | Vendor agnostic | Global Skills Development Council | Aspiring | [Page](https://www.gsdcouncil.org/certified-site-reliability-engineer-foundation) |
 | Site Reliability Engineering (SRE) Practitioner Certification (CSREP) | Vendor agnostic | Global Skills Development Council | Associate | [Page](https://www.gsdcouncil.org/certified-site-reliability-engineer-practitioner) |
-
 | | | | | |
 
 ### Reports & Guides
