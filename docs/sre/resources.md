@@ -82,6 +82,14 @@ ALL SRE resources in a single page!
 | Site Reliability Engineering (SRE) Practitioner Certification (CSREP) | Vendor agnostic | Global Skills Development Council | Associate | [Page](https://www.gsdcouncil.org/certified-site-reliability-engineer-practitioner) |
 | | | | | |
 
+### Advanced Topics
+
+| **Document Title** | **Description** | **Link** |
+|:-------------------|:----------------|:--------:|
+| System-Theoretic Process Analysis (STPA) | STPA can help anticipate hazardous scenarios and it's aligned with the principles of Site Reliability Engineering. | [MIT](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/JThomas-STPA-Introduction.pdf) |
+| Systems Thinking | SREs are systems thinkers by nature. They must understand what systems thinking is and apply it often. | [University of Phoenix](https://www.phoenix.edu/blog/what-is-systems-thinking.html) |
+| | | |
+
 ### Reports & Guides
 
 | **Document Title** | **Description** | **Link** |
