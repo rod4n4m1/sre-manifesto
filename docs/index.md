@@ -7,6 +7,7 @@ An open-source <font color="red">Site Reliability Engineering</font> **Manifesto
 * Jump to [The SRE Manifesto](./sre/manifesto.md)
 * Jump to [The SRE Practices](./sre/practices.md)
 * Jump to [The SRE Resources](./sre/resources.md)
+* Jump to [The SRE Knot](./sre/knot.md)
 
 ## TL;DR version
 
