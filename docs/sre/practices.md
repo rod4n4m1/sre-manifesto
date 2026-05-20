@@ -5,18 +5,21 @@
 ### Table of Contents
 
 | **Practice Code** | **Practice Name** | **Proposed by** | **Link** |
-|:---------:|:--------------------------|:--------------------|:---------|
+| :--------: | :------------------------- | :----------------- | :--------- |
 | `AUT100` | Reduce Operational Toil | Rod Anami | [Doc](../practices/aut100.md) |
 | `DSC100` | Time-series Data Analysis through Percentiles | Rod Anami | [Doc](../practices/dsc100.md) |
 | `DOE100` | Infrastructure Provisioning through Code | Rod Anami | [Doc](../practices/doe100.md) |
 | `OBS100` | Observability Golden Signals | Rod Anami | [Doc](../practices/obs100.md) |
 | `STH100` | Solution Full Stack Analysis for Reliability | Rod Anami | [Doc](../practices/sth100.md) |
+| `STH101` | Service Level Objectives and Error Budgets | GitHub Copilot | [Doc](../practices/sth101.md) |
+| `STH102` | Blameless Postmortems | GitHub Copilot | [Doc](../practices/sth102.md) |
+| `AUT101` | Chaos Engineering | GitHub Copilot | [Doc](../practices/aut101.md) |
 | | | | |
 
 ### Practice Areas
 
 | **Area** | **Area Description** |
-|:---------|:---------------------|
+| :------- | :------------------- |
 | `Automation` | Good practices around automating operational and engineering work. |
 | `Data Science` | Practices around MELT data analysis and application of mathematical models and statistical methods. |
 | `DevOps` | Practices that intercalate with the DevOps framework. |

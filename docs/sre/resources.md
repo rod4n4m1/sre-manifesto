@@ -5,9 +5,10 @@ ALL SRE resources in a single page!
 ## Podcasts
 
 | **Title** | **Description** | **Link** |
-|:-------------|:--------------|:------:|
+| :-------- | :-------------- | :------: |
 | Book: Becoming a Rockstar SRE (English) | Short videos summarizing each chapter of the book "Becoming a Rockstar SRE" in English. | [YouTube Playlist](https://www.youtube.com/watch?v=2gB7zcBfczM&list=PL_9BaE03ce1ayL6iHeHStapCSv4yF-Scb) |
 | Book: Becoming a Rockstar SRE (Español)  | Short videos summarizing each chapter of the book "Becoming a Rockstar SRE" in Spanish. | [YouTube Playlist](https://www.youtube.com/watch?v=_UQUYoEewPg&list=PL_9BaE03ce1ZLIsXbhrmEksfw0Mz7m6bD) |
+| Book: Becoming a Rockstar SRE (Português)  | Short videos summarizing each chapter of the book "Becoming a Rockstar SRE" in Portuguese. | [YouTube Playlist](https://www.youtube.com/watch?v=lEkWI8P4n6Q&list=PL_9BaE03ce1bs_VU9Ur868xPB6MJt4wTT) |
 | | | |
 
 ## Books
@@ -15,7 +16,7 @@ ALL SRE resources in a single page!
 ### Free
 
 | **Book Title** | **Description** | **Link** |
-|:-------------|:--------------|:------:|
+| :------------- | :-------------- | :------: |
 | **Build Secure & Reliable Systems** | Best Practices for Designing, Implementing, and Maintaining Systems. | [Read online](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) |
 | **Free Programming Books** | List of Free Learning Resources In Many Languages. | [Check out](https://github.com/EbookFoundation/free-programming-books) |
 | **Site Reliability Engineering** | How Google Runs Production Systems. | [Read online](https://sre.google/sre-book/table-of-contents/) |
@@ -25,7 +26,7 @@ ALL SRE resources in a single page!
 ### Paid
 
 | **Book Title** | **Description** | **Link** |
-|:-------------|:--------------|:------:|
+| :------------- | :-------------- | :------: |
 | **Becoming a Rockstar SRE** | Electrify your site reliability engineering mindset to build reliable, resilient, and efficient systems. | [Amazon](https://packt.link/H0G2R) |
 | **Implementing Service Level Objectives** | A Practical Guide to SLIs, SLOs, and Error Budgets. | [Amazon](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813/) |
 | **Observability Engineering** | Achieving Production Excellence. | [Amazon](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/) |
@@ -37,7 +38,7 @@ ALL SRE resources in a single page!
 ### SRE themed
 
 | **Conference** | **Characteristics** | **Organizer** | **Link** |
-|:---------------|:--------------------|:--------------|:--------:|
+| :------------- | :------------------ | :------------ | :------: |
 | **SREday** | In-person, mutiple cities, and quarterly | SREday | [Site](https://sreday.com/) |
 | **SREcon** EMEA | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 | **SREcon** Americas | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
@@ -46,7 +47,7 @@ ALL SRE resources in a single page!
 ### Technology themed
 
 | **Conference** | **Characteristics** | **Organizer** | **Link** |
-|:---------------|:--------------------|:--------------|:--------:|
+| :------------- | :------------------ | :------------ | :------: |
 | **KubeCon + CloudNativeCon** China | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) |
 | **KubeCon + CloudNativeCon** Europe | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
 | **KubeCon + CloudNativeCon** India | In-person, variable city, and yearly | LF/CNCF | [Site](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
@@ -59,7 +60,7 @@ ALL SRE resources in a single page!
 ### Learning (Free)
 
 | **Training Title** | **Type** | **Description** | **Provider** | **Link** |
-|:-------------------|:---------|:----------------|:-------------|:--------:|
+| :----------------- | :------- | :-------------- | :----------- | :------: |
 | **DevOps Engineer, SRE Learning Path** | Learning Path | This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the DevOps Engineer/SRE role | Google | [Page](https://www.cloudskillsboost.google/paths/20) |
 | **Exploring GraphQL: A Query Language for APIs** (LFS141x) | Course | This course is for both management and technical teams involved in the building and management of websites. Before enrolling you should be familiar with web architecture, such as clients and servers and web development concepts such as caching, HTTP requests, and build-time. It is helpful to have some general knowledge about how websites get information from servers, but it is not required. | The Linux Foundation | [Page](https://training.linuxfoundation.org/training/exploring-graphql-a-query-language-for-apis-lfs141/) |
 | **Getting Started with OpenTelemetry (LFS148)** | Course | Learn to use OpenTelemetry to build and manage unified observability, skills increasingly important to IT developers and engineers career growth. | The Linux Foundation |  [Page](https://training.linuxfoundation.org/training/getting-started-with-opentelemetry-lfs148/) |
@@ -84,7 +85,7 @@ ALL SRE resources in a single page!
 ### Accreditation
 
 | **Name** | **Type** | **Issuer** | **Level** | **Link** |
-|:---------|:---------|:-----------|:----------|:--------:|
+| :------- | :------- | :--------- | :-------- | :------: |
 | IBM Certified Professional SRE - Cloud v2 | IBM Cloud focused | IBM | Professional | [Page](https://www.ibm.com/training/certification/ibm-certified-professional-sre-cloud-v2-C0007801#exam) |
 | Site Reliability Engineering (SRE) Foundation | Vendor agnostic | DevOps Institute | Aspiring | [Page](https://www.devopsinstitute.com/certifications/sre-foundation/) |
 | Site Reliability Engineering (SRE) Practitioner | Vendor agnostic | DevOps Institute | Associate | [Page](https://www.devopsinstitute.com/certifications/sre-practitioner/) |
@@ -104,7 +105,7 @@ ALL SRE resources in a single page!
 ### Reports & Guides
 
 | **Document Title** | **Description** | **Link** |
-|:-------------------|:----------------|:--------:|
+| :----------------- | :-------------- | :------: |
 | The SRE Report 2025 | Now in its seventh year, Catchpoint's annual SRE Report is considered the trusted resource for catalyzing innovative business conversations and infusing IT practitioner experiences into professional research. | [Catchpoint](https://www.catchpoint.com/asset/2025-sre-report) |
 | Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program | Providing training and education for Site Reliability Engineers is universally important to set them up for success in your organization. | [Google](https://sre.google/resources/practices-and-processes/training-site-reliability-engineers/) |
 | | | |
@@ -116,7 +117,7 @@ All OSS tools and technologies for SREs!
 ### Automation
 
 | **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
-|:--------------|:---------|:----------------|:-------------|:--------:|
+| :------------ | :------- | :-------------- | :---------------- | :------: |
 | **Ansible** | Infrastructure configuration | | | [website](https://www.ansible.com/) |
 | **Chef** | Infrastructure configuration | | | [website](https://www.chef.io/) |
 | **Helm** | K8s configuration | | | [website](https://helm.sh/) |
@@ -127,7 +128,7 @@ All OSS tools and technologies for SREs!
 ### Container
 
 | **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
-|:--------------|:---------|:----------------|:-------------|:--------:|
+| :------------ | :------- | :-------------- | :---------------- | :------: |
 | **docker** | Container runtime and management | | | [website](https://www.docker.com/) |
 | **Kanivete** | K8s troubleshooting | | | [repo](https://github.com/kyndryl-open-source/kanivete) |
 | **Kubernetes** | Pod orchestration | | | [website](https://kubernetes.io) |
@@ -148,7 +149,7 @@ All OSS tools and technologies for SREs!
 ### Observability
 
 | **Tool name** | **Type** | **Description** | **Main Features** | **Link** |
-|:--------------|:---------|:----------------|:-------------|:--------:|
+| :------------ | :------- | :-------------- | :---------------- | :------: |
 | **Grafana** | Monitoring and observability stack | Grafana, Grafana Loki, Grafana Mimir, and Grafana Tempo  | [+] AI/ML; [+] APM; [+] metrics; [+] events; [+] logs;  [+] traces; [+] service levels; [+] visualization. | [website](https://grafana.com/oss/grafana/) |
 | **OpenTelemetry** | Monitoring platform | A.k.a. OTel | [-] AI/ML; [+] APM; [+] metrics; [-] events; [-] logs;  [+] traces; [+] service levels; [+] visualization. | [website](https://opentelemetry.io/) |
 | **Prometheus** | Monitoring platform | | [-] AI/ML; [+] APM; [+] metrics; [+] events; [-] logs;  [+] traces; [+] service levels; [+] visualization. | [website](https://prometheus.io/) |
@@ -165,5 +166,6 @@ All OSS tools and technologies for SREs!
 * [OPA](https://www.openpolicyagent.org/)
 * [trivy](https://trivy.dev/latest/)
 * [Vault](https://www.vaultproject.io/)
+* [OpenBao](https://openbao.org/)
 
 ## End
