@@ -10,10 +10,11 @@
 | `DSC100` | Time-series Data Analysis through Percentiles | Rod Anami | [Doc](../practices/dsc100.md) |
 | `DOE100` | Infrastructure Provisioning through Code | Rod Anami | [Doc](../practices/doe100.md) |
 | `OBS100` | Observability Golden Signals | Rod Anami | [Doc](../practices/obs100.md) |
+| `OBS101` | Observability X-Ray | Rod Anami | [Doc](../practices/obs101.md) |
 | `STH100` | Solution Full Stack Analysis for Reliability | Rod Anami | [Doc](../practices/sth100.md) |
-| `STH101` | Service Level Objectives and Error Budgets | GitHub Copilot | [Doc](../practices/sth101.md) |
-| `STH102` | Blameless Postmortems | GitHub Copilot | [Doc](../practices/sth102.md) |
-| `AUT101` | Chaos Engineering | GitHub Copilot | [Doc](../practices/aut101.md) |
+| `STH101` | Service Level Objectives and Error Budgets | Gemini | [Doc](../practices/sth101.md) |
+| `STH102` | Blameless Postmortems | Gemini | [Doc](../practices/sth102.md) |
+| `AUT101` | Chaos Engineering | Gemini | [Doc](../practices/aut101.md) |
 | | | | |
 
 ### Practice Areas

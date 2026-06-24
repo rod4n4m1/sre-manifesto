@@ -27,7 +27,8 @@
 | `Tiago Dias Generoso`             | Site Reliability Engineer | Kyndryl | 2025-11-14 |
 | `Arlindo Martins Corrêa`          | SRE Mentor | Formação SRE | 2025-12-02 |
 | `Elton Pontes Goncalves`          | Senior Software Engineer DevOps / SRE | Apple Developer Academy - UFPE | 2025-12-11 |
-| | | | |
+| `Willian Bersch Yamashita`        | SRE Specialist | Bradesco S.A. | 2026-06-21 |
+| `William Akihiro Alves Aisawa`    | Site Reliability Engineer | ICMC-USP | 2026-06-21 |
 
 ## Disclaimer
 
