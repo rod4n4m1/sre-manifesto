@@ -10,7 +10,7 @@
 * Eight (8) colors and cardinal directions, one per teardrop, to represent the technology ecosystem multiplicity
 * One (1) central square representing the overall reliability goal
 
-| **Direction** | **Color Name** | **HEX code** |
+| **Cardinal Point** | **Color Name** | **HEX code** |
 |:-------------|:----------|:-------:|
 | North | Pumpkin Orange | #F17222 |
 | Northeast | Fuel Yellow | #F0A834 |

@@ -9,6 +9,7 @@ nav:
   - The Practices: sre/practices.md
   - The Knot: sre/knot.md
   - The Resources: sre/resources.md
+  - The Role: sre/role.md
   - Signatories and Supporters: sre/supporters.md
   - Manifesto Revisions: sre/revisions.md
 
@@ -74,4 +75,4 @@ repo_url:  https://github.com/rod4n4m1/sre-manifesto/issues
 edit_uri: ""
 
 # Copyright statement in Footer
-copyright:  The SRE Manifesto © 2022-2025 by its authors and collaborators is licensed under CC BY 4.0.
+copyright:  The SRE Manifesto © 2022-2026 by its authors and collaborators is licensed under CC BY 4.0.
